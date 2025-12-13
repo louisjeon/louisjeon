@@ -1,2 +1,2 @@
 # SWE interested in React, Python, ML, LLM
-![screenshot](x.png "screenshot"){width="60%" height="60%"}
+<img src="x.png" alt="x" width="60%"/>

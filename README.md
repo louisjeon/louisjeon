@@ -1,2 +1,2 @@
-# SWE interested in React, Python, ML, LLM
+# SPEIS - React, Langchain, Zustand, TailwindCSS
 <img src="x.png" alt="x" width="100%"/>

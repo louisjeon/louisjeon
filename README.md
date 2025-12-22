@@ -1,5 +1,5 @@
 # SPEIS - Story Point Estimator In Scrum
-- FE: React, Langchain, Zustand, TailwindCSS
+- FE: React + Langchain + Zustand + TailwindCSS
 - BE: Spring Boot
 - SP Model: Flask + Huggingface
 

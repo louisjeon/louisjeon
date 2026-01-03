@@ -4,7 +4,7 @@
 - #### Efficient training at scale
 - #### Reinforcement learning with LLMs
 
-# And these are some of my main sources of knowledge.
+# And these are some of my sources of knowledge.
 - #### Ahead of AI magazine (https://magazine.sebastianraschka.com/)
 - #### Anthropic’s Interpretability Research (https://transformer-circuits.pub/)
 - #### Top AI Papers of the Week (https://www.linkedin.com/newsletters/top-ai-papers-of-the-week-7020865424875474944/)
